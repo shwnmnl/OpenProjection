@@ -1,4 +1,6 @@
-# OpenProjection
+<p align="center">
+<img src="https://github.com/shwnmnl/OpenProjection/blob/main/OpenProjection.png"  width="300" height="300">
+</p>
 
 OpenProjection is a basic open-source machine learning project I designed during my master's. Its main use is as a very beginner-friendly, step-by-step tutorial for machine learning in Python. It covers different types of supervised learning problems, including both regression and classification, as well as an embedded unsupervised learning problem.
 
